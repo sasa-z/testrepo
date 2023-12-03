@@ -20,3 +20,12 @@ write-host $store -ForegroundColor Red
 
 write-host $store -ForegroundColor Red
 }
+
+
+function sasa ($store){
+
+
+write-host $store -ForegroundColor Red
+
+write-host $store -ForegroundColor Red
+}
