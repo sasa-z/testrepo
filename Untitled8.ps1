@@ -1,4 +1,4 @@
-﻿function testing ($store){
+﻿function testingnew ($store){
 
 
 write-host $store -ForegroundColor Red
