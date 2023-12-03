@@ -18,4 +18,5 @@ function whatisthisnow ($store){
 
 write-host $store -ForegroundColor Red
 
+write-host $store -ForegroundColor Red
 }
